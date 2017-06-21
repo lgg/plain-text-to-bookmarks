@@ -6,7 +6,7 @@ This manual will help you to import you VK faves(aka vk bookmarks) to browser bo
 
 ## Parse VK faves links
 
-* go to [https://vk.com/fave](https://vk.com/fave)
+* go to [https://vk.com/fave?section=likes_posts](https://vk.com/fave?section=likes_posts)
 * press `end` button on your keyboard as much as you want/can
 * go to your browser's console (e.g. in Chrome - press `F12`)
 * inject jquery
