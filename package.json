@@ -1,0 +1,32 @@
+{
+  "name": "plain-text-to-bookmarks",
+  "version": "1.0.0",
+  "description": "Converts plain text to .html bookmarks list, ready for importing to browsers",
+  "main": "text2bookmarks.js",
+  "scripts": {
+    "vk": "node vkfaves2bookmarks.js",
+    "text": "node text2bookmarks.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgg/plain-text-to-bookmarks.git"
+  },
+  "keywords": [
+    "bookmarks",
+    "plain",
+    "text",
+    "bookmark",
+    "vk",
+    "faves",
+    "vk",
+    "faves",
+    "vk",
+    "bookmarks"
+  ],
+  "author": "lgg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgg/plain-text-to-bookmarks/issues"
+  },
+  "homepage": "https://github.com/lgg/plain-text-to-bookmarks#readme"
+}
