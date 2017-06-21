@@ -1,6 +1,6 @@
 {
   "name": "plain-text-to-bookmarks",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Converts plain text to .html bookmarks list, ready for importing to browsers",
   "main": "text2bookmarks.js",
   "scripts": {
